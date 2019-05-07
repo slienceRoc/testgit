@@ -1,0 +1,34 @@
+主审审查量查询
+lawExamineCount
+projectUrlController.do?toLawExamineCountPage
+PC端
+是
+13
+否
+ucgi ucgi-jinqihuiyi
+
+受理岗审查量查询
+acceptStationCount
+projectUrlController.do?toAcceptStationCountList
+PC端
+是
+14
+否
+ucgi ucgi-jinqihuiyi
+
+
+# 角色,改角色可以查看所有的保函审查量
+保函全部审查量   配置huangguiyi
+bhExamineCount
+
+
+数据查询
+dataQuery
+reportConfigurationController.do?toRealTimeDataQuery
+PC端
+是
+8
+否
+ ucgi ucgi-form
+数据
+
